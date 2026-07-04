@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/lauyeehow1986-hub/lauyeehow1986-hub.r-universe.dev
 	branch = HEAD
-[submodule "ggradar"]
-	path = ggradar
-	url = https://github.com/ricardo-bion/ggradar
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/hrbrmstr/waffle
