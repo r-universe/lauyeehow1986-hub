@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/lauyeehow1986-hub/lauyeehow1986-hub.r-universe.dev
 	branch = HEAD
+[submodule "dicomtk"]
+	path = dicomtk
+	url = https://github.com/lauyeehow1986-hub/dicomtk
+	branch = main
 [submodule "gghalves"]
 	path = gghalves
 	url = https://github.com/erocoar/gghalves
