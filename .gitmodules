@@ -12,6 +12,10 @@
 [submodule "ggradar"]
 	path = ggradar
 	url = https://github.com/ricardo-bion/ggradar
+[submodule "sideview"]
+	path = sideview
+	url = https://github.com/lauyeehow1986-hub/sideview
+	branch = main
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/hrbrmstr/waffle
