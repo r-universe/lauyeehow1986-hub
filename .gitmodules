@@ -10,6 +10,10 @@
 	path = dicomtk.ai
 	url = https://github.com/lauyeehow1986-hub/dicomtk.ai
 	branch = main
+[submodule "dicomtk.server"]
+	path = dicomtk.server
+	url = https://github.com/lauyeehow1986-hub/dicomtk.server
+	branch = main
 [submodule "gghalves"]
 	path = gghalves
 	url = https://github.com/erocoar/gghalves
